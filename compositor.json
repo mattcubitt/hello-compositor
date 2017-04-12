@@ -69,13 +69,6 @@
       ]
     },
     {
-      "component": "article",
-      "metadata": {
-        "source": "github.readme"
-      },
-      "html": "\n"
-    },
-    {
       "component": "footer",
       "links": [
         {
